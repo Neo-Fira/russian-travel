@@ -1,0 +1,30 @@
+.leed__subtitle {
+    max-width: 640px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    /* or 120% */
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0 auto;
+}
+
+@media (min-width: 426px) and (max-width: 768px) {
+    .leed__subtitle {
+      margin: 0 auto;
+      max-width: 70%;
+      font-size: 4vw;
+      line-height: 4.5vw;
+    }
+  }
+  
+  @media (max-width: 425px) {
+    .leed__subtitle {
+      margin: 0 auto;
+      max-width: 288px;
+      font-size: 16px;
+      line-height: 20px;
+    }
+  }
