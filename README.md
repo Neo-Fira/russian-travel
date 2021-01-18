@@ -2,8 +2,6 @@
 
 ## Автор: Фирдавс Джалолов
 
-https://neo-fira.github.io/russian-travel/
-
 ### Используемые технологии
 
 - HTML5
@@ -13,4 +11,4 @@ https://neo-fira.github.io/russian-travel/
 - @meida 
 
 **О проекте**
-Адаптивная страница
+Мобильная вёрстка по макету в Figma.
