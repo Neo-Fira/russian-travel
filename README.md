@@ -2,6 +2,8 @@
 
 ## Автор: Фирдавс Джалолов
 
+https://neo-fira.github.io/russian-travel/
+
 ### Используемые технологии
 
 - HTML5
