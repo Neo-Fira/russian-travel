@@ -10,21 +10,18 @@
 
 @media (min-width: 769px) and (max-width: 1024px) {
     .leed__image {
-      max-width: 100%;
       max-height: 580px;
       
     }
   }
   @media (min-width: 426px) and (max-width: 768px) {
     .leed__image {
-      max-width: 100%;
       max-height: 480px;
       
     }
   }
   @media (max-width: 425px) {
     .leed__image {
-      max-width: 100%;
       margin: 40px auto 8px;
       height: 200px;
     }

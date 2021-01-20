@@ -22,18 +22,14 @@
 
     }
   }
-  @media (min-width: 425px) and (max-width:680px) {
-    .place {
-      margin: 80px auto 0;
-      grid-template-columns: 1fr;
-      gap: 32px 0;
-    }
-  }
-  @media (max-width: 425px) {
+
+  
+  @media (max-width: 680px) {
     .place {
       margin: 50px auto;
       grid-template-columns: 1fr;
-      gap: 32px 0;
+      grid-template-rows: repeat(3, auto);
+      grid-row-gap: 30px;
     }
   }
   

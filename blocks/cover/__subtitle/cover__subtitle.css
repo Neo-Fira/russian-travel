@@ -5,6 +5,11 @@
   font-size: 18px;
   line-height: 1.22;
   text-align: center;
+  opacity: 0;
+}
+
+.cover__subtitle:hover {
+  opacity: 0;
 }
 
 @media (max-width: 760px) {

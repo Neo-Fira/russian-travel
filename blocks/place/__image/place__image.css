@@ -1,6 +1,6 @@
 .place__image {
     max-width: 460px;
-    min-height: 460px;
+    /* min-height: 460px; */
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
@@ -11,6 +11,8 @@
   }
   @media (min-width: 426px) and (max-width: 768px) {
     .place__image {
+      max-width: 340px;
+      max-height: 340px;
       margin: 0 auto;
       max-width: 100%;
       /* width: 100%; */
