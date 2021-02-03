@@ -24,3 +24,6 @@
       margin: 25px auto 0;
     }
   }
+  .place__paragraph:last-child {
+    margin: 0;
+  }

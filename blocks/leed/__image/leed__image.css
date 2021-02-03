@@ -1,11 +1,7 @@
 .leed__image {
-    /* background-image: url(../images/road.svg); */
     display: block;
-    background-repeat: no-repeat;
-    /* z-index: 2; */
     margin: 64px 0 8px 0;
     max-width: 100%;
-    height: 615px;
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
