@@ -1,4 +1,4 @@
-.leed__title {
+.lead__title {
     margin: 56px auto 24px;
     max-width: 720px;
     font-size: 96px;
@@ -8,7 +8,7 @@
     text-align: center;
   }
   @media (min-width: 426px) and (max-width: 768px) {
-    .leed__title {
+    .lead__title {
       max-width: 100%;
       font-size: 12.5vw;
       line-height: 104%;
@@ -17,7 +17,7 @@
   }
  
   @media (max-width: 425px) {
-    .leed__title {
+    .lead__title {
       margin: 48px auto 16px;
       max-width: 288px;
       font-size: 40px;

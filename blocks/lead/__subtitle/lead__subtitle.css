@@ -1,4 +1,4 @@
-.leed__subtitle {
+.lead__subtitle {
     max-width: 500px;
     font-family: 'Inter',Arial, Helvetica, sans-serif;
     font-style: normal;
@@ -12,7 +12,7 @@
 }
 
 @media (min-width: 426px) and (max-width: 768px) {
-    .leed__subtitle {
+    .lead__subtitle {
       max-width: 70%;
       font-size: 4vw;
       line-height: 4.5vw;
@@ -20,7 +20,7 @@
   }
   
   @media (max-width: 425px) {
-    .leed__subtitle {
+    .lead__subtitle {
       max-width: 288px;
       font-size: 16px;
       line-height: 20px;

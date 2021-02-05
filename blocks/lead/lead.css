@@ -1,20 +1,20 @@
-.leed {
+.lead {
     max-width: 984px;
     margin: 0 auto;
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
-    .leed {
+    .lead {
       max-width: 928px;
     }
   }
   @media (min-width: 426px) and (max-width: 768px) {
-    .leed {
+    .lead {
       max-width: 100%;
     }
   }
   @media (max-width: 425px) {
-    .leed {
+    .lead {
       margin: 0 auto 64px;
       max-width: 100%;
     }
